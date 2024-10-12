@@ -111,7 +111,7 @@ $link-color-user-locked:        $gray-700 !default;
 //== Typography
 //
 
-$font-family-sans-serif:        system-ui,
+$font-family-sans-serif:        "Source Sans 3",
                                 /* macOS 10.11-10.12 */ -apple-system,
                                 /* Windows 6+ */ Segoe UI,
                                 /* Android 4+ */ Roboto,
@@ -124,7 +124,8 @@ $font-family-sans-serif:        system-ui,
                                 /* Windows emoji */ "Segoe UI Symbol",
                                 /* Linux emoji */ "Noto Color Emoji" !default;
 
-$font-family-monospace:         /* macOS 10.10+ */ Menlo,
+$font-family-monospace:         "Source Code Pro",
+                                /* macOS 10.10+ */ Menlo,
                                 /* Windows 6+ */ Consolas,
                                 /* Android 4+ */ Roboto Mono,
                                 /* Ubuntu 10.10+ */ Ubuntu Monospace,
