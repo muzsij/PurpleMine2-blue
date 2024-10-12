@@ -140,10 +140,10 @@ $font-weight-semi-bold:         500 !default;
 $font-weight-bold:              600 !default;
 $font-weight-heavy-bold:        700 !default;
 
-$font-size-base:                14px !default;
-$font-size-large:               1.285em !default;
-$font-size-large-px:            18px !default;
-$font-size-small-unitless:      .86 !default;
+$font-size-base:                15px !default;
+$font-size-large:               1.267em !default;
+$font-size-large-px:            19px !default;
+$font-size-small-unitless:      .87 !default;
 $font-size-small:               $font-size-small-unitless * 1em !default;
 $font-size-small-px:            floor($font-size-small-unitless * $font-size-base) !default;
 
