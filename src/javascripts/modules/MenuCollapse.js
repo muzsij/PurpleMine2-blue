@@ -8,6 +8,9 @@ PurpleMine.MenuCollapse = (function () {
     en: {
       topMenuToggler: 'Expand/collapse top menu'
     },
+    hu: {
+      topMenuToggler: 'Felső menü kinyit/bezár'
+    },
     ro: {
       topMenuToggler: 'Deschide/închide meniul de sus'
     },

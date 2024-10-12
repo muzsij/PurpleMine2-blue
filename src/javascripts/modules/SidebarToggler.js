@@ -8,6 +8,9 @@ PurpleMine.SidebarToggler = (function () {
     en: {
       toggler: 'Toggle sidebar'
     },
+    hu: {
+      toggler: 'Oldalsáv ki/be'
+    },
     ro: {
       toggler: 'Deschide/închide bara laterală'
     },
